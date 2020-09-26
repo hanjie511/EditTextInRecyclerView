@@ -1,0 +1,2 @@
+# EditTextInRecyclerView
+解决EditText在ListView或RecyclerView值显示错误的问题
